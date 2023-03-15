@@ -4,16 +4,20 @@ Final project submission for Alchemy University
 
 ## Description
 
-Generate Art is a web application that allows users to get AI-generated images based on a text prompt by DALL-E. The user can then mint the best picture as a NFT.
+Generate Art is a web application that allows users to get AI-generated images based on a text prompt by [DALL-E 2](https://openai.com/product/dall-e-2). The user can then mint the best picture as a NFT.
+
+# Demo
+
+Try it out at https://generate-art.vercel.app
 
 ## Usage
 
 To use the application, follow these steps:
 
-1. Open the demo version in your browser.
+1. Open the [demo version](https://generate-art.vercel.app) in your browser.
 2. Enter a prompt in the input field and click on the "Generate" button.
 3. Wait for the AI to generate pictures based on your prompt.
-4. Scroll through the generated pictures and choose the one you like the most.
+4. Choose the picture you like the most.
 5. Connect your web3 wallet
 6. Add a name, description and traits that describe your image best
 7. Click on the "Mint NFT" button to mint the selected picture as a NFT.
