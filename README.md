@@ -17,7 +17,7 @@ To use the application, follow these steps:
 
 1. Open the [demo version](https://generate-art.vercel.app) in your browser.
 2. Enter a prompt in the input field and click on the "Generate" button.
-3. Wait for the AI to generate pictures based on your prompt.
+3. Wait for DALL-E to generate pictures based on your prompt.
 4. Choose the picture you like the most.
 5. Connect your web3 wallet
 6. Add a name, description and traits that describe your image best
@@ -32,7 +32,7 @@ The smart contract implements the ERC721 token standard and makes use of OpenZep
 The frontend application is built with Vite and Bootstrap.  
 It makes use of the [OpenAI API](https://platform.openai.com/docs/introduction) for generating images with DALL-E.  
 Before minting, the image and metadata are uploaded to [Pinata](https://www.pinata.cloud/).  
-The app uses [Rainbowkit](https://www.rainbowkit.com/) and [wagmi hooks](https://wagmi.sh/) for wallet interactions and the [Alchemy SDK](https://docs.alchemy.com/reference/alchemy-sdk-quickstart) to fetch and display recently minted images.
+The app uses [Rainbowkit](https://www.rainbowkit.com/) and [wagmi hooks](https://wagmi.sh/) for wallet interactions.
 
 ## Run locally
 
