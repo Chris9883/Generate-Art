@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { useAccount } from "wagmi";
-import SideNav from "./SideNav";
 import FeaturedText from "./FeaturedText";
 import Input from "./Input";
 import Output from "./Output";

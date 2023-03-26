@@ -20,7 +20,7 @@ function Navbar() {
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
               <a className="nav-link" href="#gallery">
-                Gallery
+                Home
               </a>
             </li>
             <li className="nav-item">
